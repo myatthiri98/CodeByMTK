@@ -10,8 +10,30 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-camera-roll/camera-roll": "^7.9.0",
+    "@react-native-clipboard/clipboard": "^1.15.0",
+    "@react-native-community/netinfo": "^11.4.1",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "@stream-io/flat-list-mvcp": "^0.10.3",
     "react": "18.3.1",
-    "react-native": "0.76.5"
+    "react-native": "0.76.5",
+    "react-native-audio-recorder": "^0.0.8",
+    "react-native-document-picker": "^9.3.1",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.21.2",
+    "react-native-haptic-feedback": "^2.3.3",
+    "react-native-image-crop-picker": "^0.41.6",
+    "react-native-image-picker": "^7.2.3",
+    "react-native-image-resizer": "^1.4.5",
+    "react-native-quick-sqlite": "^8.2.7",
+    "react-native-reanimated": "^3.16.6",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-screens": "^4.4.0",
+    "react-native-share": "^12.0.3",
+    "react-native-svg": "^15.10.1",
+    "react-native-video": "^6.9.0",
+    "stream-chat-react-native": "^6.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
